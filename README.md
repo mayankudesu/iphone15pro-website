@@ -56,7 +56,7 @@ This project is a modern, animated product landing page for the iPhone 15 Pro. I
 
 ## 🚀 Live Demo
 
-👉 [Live Website Link](https://mayankudesu.github.io/iphone15pro-website/)
+👉 [Live Website Link](https://mayankudesu.github.io/apple-website/)
 
 ---
 
@@ -76,7 +76,7 @@ To run the project locally, follow these simple steps.
 Clone the repository:
 
 ```bash
-git clone https://github.com/mayankudesu/iphone15pro-website.git
+git clone https://github.com/mayankudesu/apple-website.git
 cd iphone15pro-3d-website
 ```
 

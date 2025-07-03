@@ -93,7 +93,7 @@ const Model = () => {
               }}
               eventSource={document.getElementById('root')}
             >
-              {/* <View.Port />  // this is for the port view of the model but after removing it the model is not visible in the port view and website is not working ! */}
+              {/* <View.Port />  */} // this is the port for the model view but it is not for github pages but you can use as a localhost
             </Canvas>
           </div>
 
