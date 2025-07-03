@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import { chipImg, frameImg, frameVideo } from '../utils'
+import { chipImg, frameImg } from '../utils'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap';
 import { animateWithGsap } from '../utils/animations';
@@ -56,7 +56,7 @@ const HowItWorks = () => {
             </div>
             <div className="hiw-video">
                 <video className="pointer-events-none" playsInline preload="none" muted loop autoPlay ref={videoRef}>
-                  <source src={frameVideo} type="video/mp4" />
+                  <source src="/assets/videos/frame.mp4" type="video/mp4" />
                 </video>
               </div>
           </div>
