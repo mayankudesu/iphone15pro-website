@@ -2,6 +2,9 @@
 
 A fully responsive 3D animated product showcase website for the iPhone 15 Pro. Built with **React.js**, **GSAP**, and **Three.js**, this project delivers a premium Apple-style experience featuring scroll animations and interactive 3D visuals.
 
+
+![image alt](https://github.com/mayankudesu/iphone15pro-website/blob/999d32385704504b6512639512437ddc35368ed2/Mayankudesu-Titanium.png)
+
 ---
 
 ## 📗 Table of Contents
