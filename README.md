@@ -1,6 +1,10 @@
 # 📱 iPhone 15 Pro – 3D Interactive Website
 
+![image alt](https://github.com/mayankudesu/iphone15pro-website/blob/999d32385704504b6512639512437ddc35368ed2/Mayankudesu-Titanium.png)
+
 A fully responsive 3D animated product showcase website for the iPhone 15 Pro. Built with **React.js**, **GSAP**, and **Three.js**, this project delivers a premium Apple-style experience featuring scroll animations and interactive 3D visuals.
+
+
 
 ---
 
@@ -56,7 +60,7 @@ This project is a modern, animated product landing page for the iPhone 15 Pro. I
 
 ## 🚀 Live Demo
 
-👉 [Live Website Link](https://mayankudesu.github.io/apple-website/)
+👉 [Live Website Link](https://mayankudesu.github.io/iphone15pro-website/)
 
 ---
 
@@ -76,7 +80,8 @@ To run the project locally, follow these simple steps.
 Clone the repository:
 
 ```bash
-git clone https://github.com/mayankudesu/apple-website.git
+git clone https://github.com/mayankudesu/iphone15pro-website
+.git
 cd iphone15pro-3d-website
 ```
 
